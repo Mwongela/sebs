@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="search_options">
+        <item>ID Number</item>
+        <item>Vehicle Reg. Number</item>
+        <item>Offence ID</item>
+    </string-array>
+
+</resources>

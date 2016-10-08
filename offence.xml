@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offence>
+	<id>1</id>
+	<name>Stephen Mwongela</name>
+	<id_number>123456789</id_number>
+	<reg_no>KAB 155F</reg_no>
+	<location>Magadi Road</location>
+	<fine>3000</fine>
+	<payment_status>UNPAID</payment_status>
+</offence>

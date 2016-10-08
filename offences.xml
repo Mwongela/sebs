@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offences>
+	<offence>
+		<id>1</id>
+		<name>Stephen Mwongela</name>
+		<id_number>123456789</id_number>
+		<reg_no>KAB 155F</reg_no>
+		<location>Magadi Road</location>
+		<fine>3000</fine>
+		<payment_status>UNPAID</payment_status>
+	</offence>
+
+	<offence>
+		<id>2</id>
+		<name>Kim Tosh</name>
+		<id_number>22334455</id_number>
+		<reg_no>KAB 300G</reg_no>
+		<location>Langatta Road</location>
+		<fine>40000</fine>
+		<payment_status>UNPAID</payment_status>
+	</offence>
+
+	<offence>
+		<id>1</id>
+		<name>Dreamer Otieno</name>
+		<id_number>11111111</id_number>
+		<reg_no>KDD 176K</reg_no>
+		<location>Jogoo Road</location>
+		<fine>1500</fine>
+		<payment_status>PAID</payment_status>
+	</offence>
+
+</offences>
